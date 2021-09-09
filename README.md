@@ -1,7 +1,7 @@
 # Product-Informasi-Handphone-CodeIgniter
 
 **URL Menuju Admin 
-http://localhost/Product_Info/superadmin **
+http://localhost/Product_Info/superadmin/**
 
 CODE:
 public function login_superadmin($data)
