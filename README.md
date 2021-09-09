@@ -16,6 +16,9 @@ public function login_superadmin($data)
             return false;
         }
     }
+    
+    ![image](https://user-images.githubusercontent.com/45603735/132663684-6061db86-130b-47e6-9502-eced6bd16dde.png)
+
 
 **URL Menuju Home
 http://localhost/Product_Info/**
@@ -26,4 +29,6 @@ CODE:
         $products = $this->db->get_where('products', array('id' => $id));
         return $products->row();
     }
+    
+    
 
