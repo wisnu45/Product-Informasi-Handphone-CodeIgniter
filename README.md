@@ -17,7 +17,7 @@ public function login_superadmin($data)
         }
     }
     
-    ![image](https://user-images.githubusercontent.com/45603735/132663684-6061db86-130b-47e6-9502-eced6bd16dde.png)
+
 
 
 **URL Menuju Home
